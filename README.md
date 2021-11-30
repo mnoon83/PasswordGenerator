@@ -6,4 +6,3 @@ It contains both upper and lower case letters, numbers, and punctuation characte
 Techologies used:
 HTML
 Javascript
-
